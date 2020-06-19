@@ -9,9 +9,6 @@ using Microsoft.OpenApi.Models;
 using Property.DataAccess;
 using Property.DataAccess.DbContext;
 using Property.Provider;
-using System;
-using System.IO;
-using System.Reflection;
 
 namespace Property
 {
